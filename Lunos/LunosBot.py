@@ -12,8 +12,9 @@ bot = commands.Bot(command_prefix=">")
 #Commands and Other things
 @bot.event
 async def on_ready():
-    print("Lunos 0.4")
+    print("Lunos 0.5")
     print(discord.__version__)
+    print("__***Commands***__ \n >Help \n >ping \n >slap")
 
 @bot.command(pass_context=True)
 async def ping(ctx):

@@ -5,7 +5,6 @@ from discord.ext.commands import Bot
 import asyncio
 
 print("Initializing bot... \n")
-game="C:\Program Files\Mozilla Firefox\firefox.exe"
 
 bot = commands.Bot(command_prefix=">")
 

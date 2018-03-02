@@ -31,4 +31,4 @@ async def slap(ctx, user: discord.Member):
     print("Someone just got slapped")
 #Commands and Other things
 
-bot.run("NDA1ODMzNzk3NzkyNDMyMTI4.DXD9yQ.P1Gr72GxvVlnYhZPTxGcCQSOweg")
+bot.run("")
